@@ -1,0 +1,6 @@
+*.log
+universe.sql
+worldcup.sql
+salon.sql
+periodic.sql
+number_guess.sql

@@ -25,7 +25,7 @@ CREATE TABLE galaxy (
   description TEXT,
   type VARCHAR(50),
   distance_from_earth NUMERIC,
-  number_of_stars INT
+  number_of_stars BIGINT
 );
 
 -- star (FK -> galaxy)
